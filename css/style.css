@@ -75,3 +75,23 @@ body{
   font-size: 16px;
   font-weight: 100;
 }
+
+/* navigation bar.............................////////////////// */
+.nav{
+  background-size:100% 100%;
+  width: 100vw;
+  justify-items: left;
+
+}
+.nav a{
+  text-decoration: none;
+  text-align: center;
+  color:white;
+  font-size: x-large;
+  padding: 10px 10px;
+}
+.nav a:hover{
+  background-color: rgb(231, 98, 98);
+  color: rgb(244, 244, 245);
+  border-radius: 5px;
+}
